@@ -6,3 +6,4 @@
 - Do some EDA, make some plots
 - Test some basic time-series techniques
 - Do some data augmentation (weather); does it reduce the prediction error?
+- Add ML techniques (RNN, LSTM, etc)
